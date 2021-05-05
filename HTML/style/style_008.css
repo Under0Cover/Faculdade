@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* Formatação de Tabela */
+
+table {border-collapse: collapse;}
+th {border: 1px solid #ccc; padding: 9px; background-color: silver;}
+td {border: 1px solid #ccc; padding: 10px; text-align: center;}
