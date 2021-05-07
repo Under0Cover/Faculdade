@@ -1,0 +1,5 @@
+input {width: calc(100% - 20px); padding: 10px;}
+textarea { width: calc(100% - 20px); padding: 10px;}
+.container {width: 600px; margin: 0 auto;}
+h4 {text-align: center;}
+.botao_enviar {border: solid 1px #02b81a; background-color: blue; color: white; text-decoration: none; padding: 20px; width: 40%;}
