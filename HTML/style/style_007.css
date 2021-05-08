@@ -7,3 +7,6 @@ nav#menu li {display: inline-block; background-color: rgba(150, 40, 0, .4); padd
 nav#menu h3 {display: none;}
 nav#menu li:hover {background-color: #604050;}
 nav#menu a {color: #000; text-decoration: none;}
+
+
+h3 {border: dashed green 5px;}
